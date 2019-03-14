@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Deniz Çelik",
+      "salary": "3200",
+      "department": "İnsan Kaynakları",
+      "id": 5
+    },
+    {
+      "name": "Uğur Başural",
+      "salary": "1200",
+      "department": "Yazılım",
+      "id": 6
+    },
+    {
+      "name": "Furkan Kalabalıkoğlu",
+      "salary": "3200",
+      "department": "Front End değil",
+      "id": 8
+    }
+  ]
+}
