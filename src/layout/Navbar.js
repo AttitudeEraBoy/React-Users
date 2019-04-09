@@ -28,6 +28,6 @@ Navbar.propTypes = {
     title : PropTypes.string.isRequired
 }
 Navbar.defaultProps = {
-    title : "Apo"
+    title : "No title"
 }
 export default Navbar;
